@@ -9,6 +9,7 @@ Built an ML-based model for early Lung Cancer Detection, reducing healthcare pro
 ## Dataset
 
 The dataset contains responses from individuals with various health and lifestyle factors. Each row represents one person, and each column is a feature or label.
+https://www.kaggle.com/datasets/bharatxjain/lung-cance-prediction-dataset/
 
 Typical features include:
 
